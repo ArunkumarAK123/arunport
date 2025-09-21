@@ -1,12 +1,12 @@
 import Home from './components/Home';
-import Projects from './components/Projects';
+import Project from './components/Project';
 // import Contact from './components/Contact';
   
 function App() {
   return (
     <>
       <Home />
-       <Projects /> 
+       <Project /> 
       {/* <Contact /> */}
     </>
   );
